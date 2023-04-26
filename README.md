@@ -3,6 +3,8 @@
 <h2 align="center">Estudande de Ciência da computação
 
 <br/>
+  
+  
 <div align="center">
   <a href="https://github.com/PedroFolk">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunodantasz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
